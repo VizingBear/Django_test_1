@@ -1,0 +1,1 @@
+# from store.settings import INSTALLED_APPS  - для работы python console
